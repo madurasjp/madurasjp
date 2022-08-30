@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madurasjp
-- 👀 I’m interested in AI  
+- 👀 I’m interested in IoT 
 - 🌱 I’m currently learning smart devices
 - 💞️ I’m looking to collaborate on agro-tech
 - 📫 email to madurasjp@gmail.com
